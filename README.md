@@ -1,4 +1,4 @@
-# Description of the dataset `litterfall.xlsx`
+# Description of the dataset 
 
 ## Structure of the file
 
