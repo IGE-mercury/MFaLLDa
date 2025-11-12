@@ -45,4 +45,4 @@ This dataset is distributed under the [Creative Commons Attribution 4.0 Internat
 ## Citation
 Authors: Laura Sereni,Hélène Angot,Erfan Jahangir
 Dataset Title: MFaLLDa (Mercury litter and throughFALL Database)
-Zenodo (2025), DOI: 10.5281/zenodo.17370397
+Zenodo (2025), DOI: 10.5281/zenodo.17554035
