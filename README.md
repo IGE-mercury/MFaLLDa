@@ -40,42 +40,34 @@
 ## Licence
 This dataset is distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-## For Future Contributors: 
-##Citing this dataset
-
-If you use, modify, or build upon this dataset, please cite the original Zenodo record:
-
+## Citing this dataset:
 > Laura, S., & Angot,H. &Jahangir,E. MFaLLDa (Mercury litter and throughFALL Database) Zenodo. https://doi.org10.5281/zenodo.17554035
 
-You may also reference a specific version using its version-specific DOI (see the Zenodo page for all versions).
-Citing the DOI ensures reproducibility and proper attribution to the original authors.
 
 ---
 
-## Contribution and branch strategy
+## Contribution to this dataset
 
-### Main branches
+### Two branches are available: 
 - **main** → Stable, published version of the dataset (matches the latest Zenodo release).  
 - **dev** → Working branch for upcoming updates, additions, or documentation improvements.
 
-All changes should be proposed as **pull requests (PRs)** against the `dev` branch.  
+All changes should be proposed as **pull requests** against the `dev` branch.  
 Once reviewed and validated, changes from `dev` are merged into `main`, and a new **release** is created.
-
-> Each GitHub release triggers an automatic Zenodo archive and DOI.
 
 ---
 
-##  Workflow for contributors
-1. Fork the repository or create a new branch from `dev`.  
+###  Workflow for contributors 
+1. Create a new branch from `dev`.  
 2. Add your contributions (data, corrections, or documentation).  
-3. Submit a pull request (PR) to merge your changes into the `dev` branch.  
+3. Submit a pull request to merge your changes into the `dev` branch.  
 4. The maintainers will review and merge your PR before the next official release.
 
 ---
 
-##  Forks and derived datasets
+##  Creating derived datasets
 
-If you **fork** this repository to create a derivative dataset:
+If you want to build upon this dataset, you may **fork** this repository to create a derivative dataset:
 - Please **cite** the original Zenodo record above.  
 - Add a note in your Zenodo metadata such as:  
   > "Derived from *MFaLLDa (Mercury litter and throughFALL Database)* (Sereni et al.2025) Zenodo. https://doi.org10.5281/zenodo.17554035"
