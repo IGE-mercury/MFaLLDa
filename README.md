@@ -1,3 +1,8 @@
+## Description 
+MFallda is the first global dataset resulting from compiling and harmonizing all available data on total Hg (THg) and methylmercury (MeHg) concentrations and fluxes in litterfall (LF) and throughfall (TF). The dataset includes measurements collected between 1987 and 2024 from 147sites distributed across all major biomes, together with metadata on ecosystem type, sampling protocol, precipitation, wet deposition, and Köppen–Geiger climate classification.
+This dataset provides an open-access, standardized resource to improve spatially explicit estimates of vegetation-mediated Hg inputs to soils, refine inter- and intra-site Hg budgets, and support model calibration and validation at regional to global scales. A contribution template is provided to facilitate community data sharing and ensure regular updates.
+
+
 ## Structure of the file
 
 | Column name | Type | Units | Description |
