@@ -41,9 +41,10 @@ This dataset provides an open-access, standardized resource to improve spatially
 | DOI | Text | - | DOI of article, starting with “10.” |
 
 ---
-## Licence 
+## Licence
 
 This dataset is distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 ## Contribution to this dataset
