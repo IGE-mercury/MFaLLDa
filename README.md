@@ -1,5 +1,5 @@
 ## Description 
-MFallda is the first global dataset resulting from compiling and harmonizing all available data on total Hg (THg) and methylmercury (MeHg) concentrations and fluxes in litterfall (LF) and throughfall (TF). The dataset includes measurements collected between 1987 and 2024 from 147sites distributed across all major biomes, together with metadata on ecosystem type, sampling protocol, precipitation, wet deposition, and Köppen–Geiger climate classification.
+MFallda is the first global dataset resulting from compiling and harmonizing all available data on total Hg (THg) and methylmercury (MeHg) concentrations and fluxes in litterfall (LF) and throughfall (TF). The dataset includes measurements collected between 1987 and 2024 from 147sites distributed across all major biomes, together with metadata on ecosystem type, sampling protocol, precipitation, wet deposition, and Köppen–Geiger climate classification.\
 This dataset provides an open-access, standardized resource to improve spatially explicit estimates of vegetation-mediated Hg inputs to soils, refine inter- and intra-site Hg budgets, and support model calibration and validation at regional to global scales. A contribution template is provided to facilitate community data sharing and ensure regular updates.
 
 
@@ -41,14 +41,9 @@ This dataset provides an open-access, standardized resource to improve spatially
 | DOI | Text | - | DOI of article, starting with “10.” |
 
 ---
+## Licence 
 
-## Licence
 This dataset is distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
-## Citing this dataset:
-> Laura, S., & Angot,H. &Jahangir,E. MFaLLDa (Mercury litter and throughFALL Database) Zenodo. https://doi.org10.5281/zenodo.17554035
-
-
 ---
 
 ## Contribution to this dataset
@@ -57,27 +52,15 @@ This dataset is distributed under the [Creative Commons Attribution 4.0 Internat
 - **main** → Stable, published version of the dataset (matches the latest Zenodo release).  
 - **dev** → Working branch for upcoming updates, additions, or documentation improvements.
 
-All changes should be proposed as **pull requests** against the `dev` branch.  
+All changes should be proposed as **pull requests (PRs)** against the `dev` branch.  
 Once reviewed and validated, changes from `dev` are merged into `main`, and a new **release** is created.
 
 ---
 
 ###  Workflow for contributors 
-1. Create a new branch from `dev`.  
+1. Fork the branch `dev`.  
 2. Add your contributions (data, corrections, or documentation).  
 3. Submit a pull request to merge your changes into the `dev` branch.  
 4. The maintainers will review and merge your PR before the next official release.
-
----
-
-##  Creating derived datasets
-
-If you want to build upon this dataset, you may **fork** this repository to create a derivative dataset:
-- Please **cite** the original Zenodo record above.  
-- Add a note in your Zenodo metadata such as:  
-  > "Derived from *MFaLLDa (Mercury litter and throughFALL Database)* (Sereni et al.2025) Zenodo. https://doi.org10.5281/zenodo.17554035"
-- You are encouraged to release your derived work under an open license and assign your own Zenodo DOI.
-
-Forks and derivatives are welcome — but the **official, citable versions** of this dataset are maintained in this main repository.
 
 
