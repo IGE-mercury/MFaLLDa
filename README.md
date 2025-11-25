@@ -1,6 +1,7 @@
 ## Description 
-MFallda is the first global dataset resulting from compiling and harmonizing all available data on total Hg (THg) and methylmercury (MeHg) concentrations and fluxes in litterfall (LF) and throughfall (TF). The dataset includes measurements collected between 1987 and 2024 from 147 sites distributed across all major biomes, together with metadata on ecosystem type, sampling protocol, precipitation, wet deposition, and Köppen–Geiger climate classification.\
-This dataset provides an open-access, standardized resource to improve spatially explicit estimates of vegetation-mediated Hg inputs to soils, refine inter- and intra-site Hg budgets, and support model calibration and validation at regional to global scales. A contribution template is provided to facilitate community data sharing and ensure regular updates.
+MFallda is the first global dataset that compiles and harmonizes all available measurements of total mercury (THg) and methylmercury (MeHg) concentrations and fluxes in litterfall (LF) and throughfall (TF). It contains data collected between 1987 and 2024 from 147 sites spanning all major biomes, accompanied by detailed metadata on ecosystem type, sampling protocols, precipitation, wet deposition, and Köppen–Geiger climate classification.\
+
+This open-access, standardized dataset provides a foundation for improving spatially explicit estimates of vegetation-mediated Hg inputs to soils, refining inter- and intra-site Hg budgets, and supporting model calibration and validation from regional to global scales. A contribution template is included to facilitate community data sharing and ensure regular updates.
 
 
 ## Structure of the file
@@ -33,10 +34,10 @@ This dataset provides an open-access, standardized resource to improve spatially
 | WVMC_TF_Hg_ngL | Numerical | ng Hg L⁻¹ | Volume-weighted mean concentration of THg in throughfall (reported explicitly in only two studies) |
 | TF_AnnualMeanConcentration_Hg_ngL | Numerical | ng Hg L⁻¹ | Annual mean THg concentration in throughfall |
 | TF_AnnualMeanConcentration_MeHg_ngL | Numerical | ng MeHg L⁻¹ | Annual mean MeHg concentration in throughfall |
-| OpenPrecipitation_AnnualMeanConcentration_MeHg_ngL | Numerical | ng MeHg L⁻¹ | Annual mean MeHg concentration in open precipitation |
-| OpenPrecipitation_AnnualMeanFlux_Hg_ugm2yr | Numerical | µg Hg m⁻² yr⁻¹ | Annual mean THg flux in open precipitation |
-| OpenPrecipitation_AnnualMeanFlux_MeHg_ugm2yr | Numerical | µg MeHg m⁻² yr⁻¹ | Annual mean MeHg flux in open precipitation |
 | OpenPrecipitation_AnnualMeanConcentration_Hg_ngL | Numerical | ng Hg L⁻¹ | Annual mean THg concentration in open precipitation |
+| OpenPrecipitation_AnnualMeanFlux_Hg_ugm2yr | Numerical | µg Hg m⁻² yr⁻¹ | Annual mean THg flux in open precipitation |
+| OpenPrecipitation_AnnualMeanConcentration_MeHg_ngL | Numerical | ng MeHg L⁻¹ | Annual mean MeHg concentration in open precipitation |
+| OpenPrecipitation_AnnualMeanFlux_MeHg_ugm2yr | Numerical | µg MeHg m⁻² yr⁻¹ | Annual mean MeHg flux in open precipitation |
 | Flag | Text | - | Additional information about sampling procedure, data quality, or contamination issues |
 | DOI | Text | - | DOI of the article (starting with “10.”) |
 
