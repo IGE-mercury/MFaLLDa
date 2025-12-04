@@ -11,9 +11,10 @@ message: >-
 type: dataset
 authors:
   - given-names: Laura
-    affiliation: 'Univ. Grenoble Alpes, CNRS, INRAE, IRD, Grenoble INP, IGE, Grenoble, France.'
     family-names: Sereni
     email: laura.sereni@univ-grenoble-alpes.fr
+    orcid: https://orcid.org/0000-0002-3995-3680
+    affiliation: 'Univ. Grenoble Alpes, CNRS, INRAE, IRD, Grenoble INP, IGE, Grenoble, France.'
   - given-names: Erfan
     family-names: Jahangir
     email: erfan.jahangir@univ-grenoble-alpes.fr
@@ -21,7 +22,10 @@ authors:
   - given-names: Hélène
     family-names: Angot
     email: helene.angot@univ-grenoble-alpes.fr
+    orcid: https://orcid.org/0000-0003-4673-8249
     affiliation: 'Univ. Grenoble Alpes, CNRS, INRAE, IRD, Grenoble INP, IGE, Grenoble, France.'
 identifiers:
   - type: url
     value: 'https://github.com/IGE-mercury/MFaLLDa'
+  - type: doi
+    value: 10.5281/zenodo.17554035
