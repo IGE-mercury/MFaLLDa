@@ -26,6 +26,6 @@ authors:
     affiliation: 'Univ. Grenoble Alpes, CNRS, INRAE, IRD, Grenoble INP, IGE, Grenoble, France.'
 identifiers:
   - type: url
-    value: 'https://github.com/IGE-mercury/MFaLLDa'
+    value: 'https://github.com/IGE-mercury/MFallDa'
   - type: doi
-    value: 10.5281/zenodo.17554035
+    value: 10.5281/zenodo.17816916
